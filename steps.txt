@@ -1,0 +1,11 @@
+Credentials:
+username:	admin
+password:	password
+
+templates location:
+	htdocs/jobhiring/wp-content/themes/jobhiring (theme name)
+	Pages:
+		Home	-	front-page.php
+
+	template-parts:
+		Advertisement	-	advertisement-template
